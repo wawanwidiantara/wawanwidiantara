@@ -19,7 +19,7 @@
 | [Quiz Test App](https://github.com/WawanWidiantara/cbt-backend) | Backend solution for a customizable quiz application. (Laravel) |
 
 ### Award-Winning Project
-- **[SINDIKAT: Sistem Multi Device Pendeteksi Tindakan Kriminal](https://github.com/Sindikat-PKM-KC)**: Winner of the 2024 PKMKC award, this multi-device alert system detects criminal actions and raises alerts in real-time.
+- **[SINDIKAT: Sistem Multi Device Pendeteksi Tindakan Kriminal](https://github.com/Sindikat-PKM-KC)**: Multi-device alert system detects criminal actions and raises alerts in real-time.
 
 <h2> 🤳 Connect with me:</h2>
 
