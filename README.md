@@ -1,7 +1,8 @@
-<h1>Hi, I'm Widi! <br/><a href="https://github.com/wawanwidiantara">Programmer</a>, <a href="https://www.linkedin.com/in/gedewidiantara/">Flutter Developer</a>, <a href="https://www.linkedin.com/in/gedewidiantara/">Machine Learning Enthusiast</a></h1>
+# Hi, I'm Widi!  
+[Programmer](https://github.com/wawanwidiantara), [Flutter Developer](https://www.linkedin.com/in/gedewidiantara/), [Machine Learning Enthusiast](https://www.linkedin.com/in/gedewidiantara/)
 
 ## 👨‍💻 Software Development Projects
-  
+
 ### Flutter Applications
 | Project | Description |
 |---------|-------------|
@@ -11,17 +12,16 @@
 | [Rent Car App](https://github.com/WawanWidiantara/car_rent_app) | A streamlined car rental app with booking management features. |
 
 ### Backend Projects (Django, FastAPI, Laravel)
-- **[Receipt Information Extraction App - Backend](https://github.com/WawanWidiantara/PicBudget-Backend)**: Backend API for the receipt extraction application.
-- **[Identity Card Extraction](https://github.com/WawanWidiantara/KTM-Information-Extraction)**: Uses OCR for identity card data extraction.
-- **[Quiz Test App](https://github.com/WawanWidiantara/cbt-backend)**: Backend solution for a customizable quiz application.
+| Project | Description |
+|---------|-------------|
+| [Receipt Information Extraction App - Backend](https://github.com/WawanWidiantara/PicBudget-Backend) | Backend API for the receipt extraction application. |
+| [Identity Card Extraction](https://github.com/WawanWidiantara/KTM-Information-Extraction) | Uses OCR for identity card data extraction. |
+| [Quiz Test App](https://github.com/WawanWidiantara/cbt-backend) | Backend solution for a customizable quiz application. |
 
-### Alert System
-- **[SINDIKAT: Sistem Multi Device Pendeteksi Tindakan Kriminal](https://github.com/Sindikat-PKM-KC)**: An alert system for multi-device criminal action detection.
+### Award-Winning Project
+- **[SINDIKAT: Sistem Multi Device Pendeteksi Tindakan Kriminal](https://github.com/Sindikat-PKM-KC)**: Winner of the 2024 PKMKC award, this multi-device alert system detects criminal actions and raises alerts in real-time.
 
-<h2> 🤳 Connect with me:</h2>
+## 🤳 Connect with me
 
-[<img align="left" alt="GedeWidiantara | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="GedeWidiantara | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-[instagram]: https://www.instagram.com/wawanwidiantara/
-[linkedin]: https://linkedin.com/in/gedewidiantara
+[![GedeWidiantara | LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg)](https://linkedin.com/in/gedewidiantara)
+[![GedeWidiantara | Instagram](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg)](https://www.instagram.com/wawanwidiantara/)
