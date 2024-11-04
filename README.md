@@ -1,6 +1,7 @@
 <h1>Hi, I'm Widi! <br/><a href="https://github.com/wawanwidiantara">Programmer</a>, <a href="https://www.linkedin.com/in/gedewidiantara/">Flutter Developer</a>, <a href="https://www.linkedin.com/in/gedewidiantara/">Machine Learning Enthusiast</a></h1>
 
-<h2> 👨‍💻 Software Development Projects <h2>
+## 👨‍💻 Software Development Projects
+  
 ### Flutter Applications
 | Project | Description |
 |---------|-------------|
