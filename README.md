@@ -11,12 +11,12 @@
 | [Facial Wash Recommendation App](https://github.com/WawanWidiantara/glow_up_app) | Provides personalized skincare recommendations based on user skin type. |
 | [Rent Car App](https://github.com/WawanWidiantara/car_rent_app) | A streamlined car rental app with booking management features. |
 
-### Backend Projects (Django, FastAPI, Laravel)
+### Backend Projects
 | Project | Description |
 |---------|-------------|
-| [Receipt Information Extraction App - Backend](https://github.com/WawanWidiantara/PicBudget-Backend) | Backend API for the receipt extraction application. |
-| [Identity Card Extraction](https://github.com/WawanWidiantara/KTM-Information-Extraction) | Uses OCR for identity card data extraction. |
-| [Quiz Test App](https://github.com/WawanWidiantara/cbt-backend) | Backend solution for a customizable quiz application. |
+| [Receipt Information Extraction App - Backend](https://github.com/WawanWidiantara/PicBudget-Backend) | Backend API for the receipt extraction application. (Django) |
+| [Identity Card Extraction](https://github.com/WawanWidiantara/KTM-Information-Extraction) | Uses OCR for identity card data extraction. (FastAPI) |
+| [Quiz Test App](https://github.com/WawanWidiantara/cbt-backend) | Backend solution for a customizable quiz application. (Laravel) |
 
 ### Award-Winning Project
 - **[SINDIKAT: Sistem Multi Device Pendeteksi Tindakan Kriminal](https://github.com/Sindikat-PKM-KC)**: Winner of the 2024 PKMKC award, this multi-device alert system detects criminal actions and raises alerts in real-time.
