@@ -21,7 +21,10 @@
 ### Award-Winning Project
 - **[SINDIKAT: Sistem Multi Device Pendeteksi Tindakan Kriminal](https://github.com/Sindikat-PKM-KC)**: Winner of the 2024 PKMKC award, this multi-device alert system detects criminal actions and raises alerts in real-time.
 
-## 🤳 Connect with me
+<h2> 🤳 Connect with me:</h2>
 
-[![GedeWidiantara | LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg)](https://linkedin.com/in/gedewidiantara)
-[![GedeWidiantara | Instagram](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg)](https://www.instagram.com/wawanwidiantara/)
+[<img align="left" alt="GedeWidiantara | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="GedeWidiantara | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+[instagram]: https://www.instagram.com/wawanwidiantara/
+[linkedin]: https://linkedin.com/in/gedewidiantara
