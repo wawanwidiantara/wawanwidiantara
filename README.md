@@ -18,7 +18,7 @@
 | [Identity Card Extraction](https://github.com/WawanWidiantara/KTM-Information-Extraction) | Uses OCR for identity card data extraction. (FastAPI) |
 | [Quiz Test App](https://github.com/WawanWidiantara/cbt-backend) | Backend solution for a customizable quiz application. (Laravel) |
 
-### Award-Winning Project
+### PKM Project
 - **[SINDIKAT: Sistem Multi Device Pendeteksi Tindakan Kriminal](https://github.com/Sindikat-PKM-KC)**: Multi-device alert system detects criminal actions and raises alerts in real-time.
 
 <h2> 🤳 Connect with me:</h2>
