@@ -1,3 +1,3 @@
-### I Gede <u>Widi</u>antara
+### I Gede ***Widi***antara
 
 > /iˈ ɡəˈde wi.diˈan.ta.ra/
