@@ -3,3 +3,7 @@
 ### I Gede ***Widi***antara
 
 > /iˈ ɡəˈde wi.diˈan.ta.ra/
+
+|  |  |
+|---------|-------------|
+| [Receipt Information Extraction App](https://github.com/WawanWidiantara/picbudget_app) | Extracts and categorizes receipt data using OCR for budgeting and financial tracking. |
