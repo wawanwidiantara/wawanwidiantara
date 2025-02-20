@@ -1,6 +1,6 @@
 ![clowd](https://github.com/user-attachments/assets/41dbc9a8-2bef-4c03-9527-742c0b71895d)
 
-## I Gede ***Widi***antara
+## I Gede **_Widi_**antara
 
 > /iˈ ɡəˈde wi.diˈan.ta.ra/
 
@@ -15,5 +15,7 @@
     </td>
   </tr>
 </table>
-
-![](https://komarev.com/ghpvc/?username=wawanwidiantara&label=Curiosity+Meter&abbreviated=true)
+<br>
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=wawanwidiantara&label=Curiosity+Meter" alt="Curiosity Meter" />
+</p>
