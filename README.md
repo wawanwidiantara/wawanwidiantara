@@ -10,7 +10,7 @@
       <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXVnbjBvM3J2ODRoZXM0cTFvcTBidXRob2dzMjhvZWxwa3V3ZXY0YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Hi9K3XEl0Llg8AX4Sb/giphy.gif" alt="Cat GIF" width="150" height="auto">
     </td>
     <td style="border: none; vertical-align: top;">
-      Ma Desc
+      Hi, I'm <b>Widi</b>. I'm a <b>Flutter developer</b> and <b>Machine Learning Enthusiast</b>. I enjoy building cross-platform mobile apps with clean, user-friendly design. I value simplicity, continuous learning, and practical collaboration. Open to ideas and creative projects—let's build something effective and straightforward together. Always open to feedback and new ideas.
     </td>
   </tr>
 </table>
